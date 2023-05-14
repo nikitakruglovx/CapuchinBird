@@ -1,4 +1,8 @@
-# CapuchinBird Recognized NeuralNetwork Model
+# Noise CapuchinBird Recognized NeuralNetwork Model
+
+A simple binary classification model for the sounds of the capuchin bird
+
+Implementation using PyTorch
 
 ![img](https://i.imgur.com/uWP142C.jpg)
 
@@ -22,7 +26,9 @@ Model in 18 layers proved to be the best result
 Score: 0.9877049180327869
 ```
 # Parametric data hyperparameters
+```
 number features: 512
 learn rate: 0.001
 momentum: 0.3
 epoche: 1
+```
