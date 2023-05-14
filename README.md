@@ -1,6 +1,6 @@
 # CapuchinBird Recognized NeuralNetwork Model
 
-![img](https://i.imgur.com/cVaKCSt.jpg) ![img](https://i.imgur.com/gSlFmz9.jpg) 
+![img](https://i.imgur.com/uWP142C.jpg)
 
 Model in 18 layers proved to be the best result
 ```Python
