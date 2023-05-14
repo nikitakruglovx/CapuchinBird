@@ -32,3 +32,4 @@ learn rate: 0.001
 momentum: 0.3
 epoche: 1
 ```
+The model receives a segment of the audio file as input, which subsequently transforms the spectrogram
