@@ -1,0 +1,9 @@
+librosa==0.10.0.post2
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+numpy==1.23.5
+scikit-image==0.20.0
+scikit-learn==1.2.2
+torch==2.0.0
+torchvision==0.15.1
+
